@@ -1,2 +1,2 @@
-# typescript-deno
-TypeScript @ Deno
+# TypeScript @ Deno
+## https://www.typescriptlang.org/docs/handbook/intro.html
